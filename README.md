@@ -1,7 +1,7 @@
--  Hi, This side Ankur Dhatwalia currently in 1st year 
+-  Hi, This side Ankur Dhatwalia currently in 1st year.
 -  I’m interested in part time internship related to coding.
--  I’m currently learning data structures and algorithmsin c++ 
--  I’m looking forward in learning more about other languages
--  to contact me kindly email dhatwaliaankur@gmail.com
+-  I’m currently learning data structures and algorithms in c++.
+-  I’m looking forward in learning more about other languages.
+-  To contact me kindly email dhatwaliaankur@gmail.com.
+-  Seeing forward to learn new skills everytime. 
 -  Fun fact: Its never to late to begin.
-- 
