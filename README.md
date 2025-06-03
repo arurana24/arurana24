@@ -2,6 +2,6 @@
 -  I’m interested in part time internship related to coding.
 -  I’m currently learning data structures and algorithms in c++.
 -  I’m looking forward in learning more about other languages.
--  To contact me kindly email dhatwaliaankur@gmail.com.
+-  To contact me kindly email dhatwaliaankur5@gmail.com.
 -  Seeing forward to learn new skills everytime. 
 -  Fun fact: Its never to late to begin.
